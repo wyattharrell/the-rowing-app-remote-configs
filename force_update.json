@@ -1,5 +1,6 @@
 {
   "minimum_supported_version": "2025.1",
   "minimum_supported_iOS_version": "17.0",
-  "force_update_regardless_of_iOS_version": false
+  "force_update_regardless_of_iOS_version": false,
+  "current_app_store_version": "2025.3.2" 
 }
